@@ -111,7 +111,7 @@ class WordRank(object):
 
 if __name__ == "__main__":
     wordrank = WordRank()
-    wordrank.wordrank("电视剧吸血鬼日记的高清下载")
+    wordrank.wordrank("百度世界大会")
     
 
 
